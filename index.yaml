@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  pingdom-twilio-integration:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2020-02-11T09:14:46.110401263Z"
+    description: A Helm chart for integration tool pingdom - twilio
+    digest: fd589d25cfda0f8904550935fde7ef7de3f25cb94a19559f16e0cae6e5267074
+    home: https://github.com/Docplanner/pingdom-twilio-integration
+    keywords:
+    - pingdom
+    - twilio
+    - monitoring
+    maintainers:
+    - email: przemyslaw.robak@docplanner.com
+      name: alv91
+    - email: lukasz.barulski@docplanner.com
+      name: lbarulski
+    name: pingdom-twilio-integration
+    sources:
+    - https://github.com/Docplanner/pingdom-twilio-integration
+    urls:
+    - https://github.com/DocPlanner/helm-charts/releases/download/pingdom-twilio-integration-0.2.0/pingdom-twilio-integration-0.2.0.tgz
+    version: 0.2.0
+generated: "2020-02-11T09:14:46.003515769Z"
