@@ -1,11 +1,33 @@
 apiVersion: v1
 entries:
-  pingdom-twilio-integration:
+  pingdom-statuspage-integration:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2020-02-11T09:14:46.110401263Z"
+    created: "2020-02-11T11:08:35.201623866Z"
+    description: A Helm chart for integration tool pingdom - statuspage
+    digest: 319c7f89c0d175bd421802e5edee65222f4259e5aea381b9f8e61cbed763d90f
+    home: https://github.com/Docplanner/pingdom-statuspage-integration
+    keywords:
+    - pingdom
+    - statuspage
+    - monitoring
+    maintainers:
+    - email: przemyslaw.robak@docplanner.com
+      name: alv91
+    - email: lukasz.barulski@docplanner.com
+      name: lbarulski
+    name: pingdom-statuspage-integration
+    sources:
+    - https://github.com/Docplanner/pingdom-statuspage-integration
+    urls:
+    - https://github.com/DocPlanner/helm-charts/releases/download/pingdom-statuspage-integration-0.1.0/pingdom-statuspage-integration-0.1.0.tgz
+    version: 0.1.0
+  pingdom-twilio-integration:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-02-07T15:53:03.408658+01:00"
     description: A Helm chart for integration tool pingdom - twilio
-    digest: fd589d25cfda0f8904550935fde7ef7de3f25cb94a19559f16e0cae6e5267074
+    digest: 83cd0e8f606fb2f526f332050d2c2f9887ff2e7c6ac08cfbc7457bbb4d33510a
     home: https://github.com/Docplanner/pingdom-twilio-integration
     keywords:
     - pingdom
@@ -13,13 +35,13 @@ entries:
     - monitoring
     maintainers:
     - email: przemyslaw.robak@docplanner.com
-      name: alv91
+      name: Przemysław Robak
     - email: lukasz.barulski@docplanner.com
-      name: lbarulski
+      name: Łukasz Barulski
     name: pingdom-twilio-integration
     sources:
     - https://github.com/Docplanner/pingdom-twilio-integration
     urls:
-    - https://github.com/DocPlanner/helm-charts/releases/download/pingdom-twilio-integration-0.2.0/pingdom-twilio-integration-0.2.0.tgz
+    - pingdom-twilio-integration-0.2.0.tgz
     version: 0.2.0
-generated: "2020-02-11T09:14:46.003515769Z"
+generated: "2020-02-07T15:53:03.40519+01:00"
