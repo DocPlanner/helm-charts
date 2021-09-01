@@ -3,9 +3,9 @@ entries:
   pingdom-statuspage-integration:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-09-01T10:51:16.128806302Z"
+    created: "2021-09-01T10:56:46.963648335Z"
     description: A Helm chart for integration tool pingdom - statuspage
-    digest: 642d34fc3faf3548214a4a830458611bc98b566e62fcc9b04c4592cb71d66e2a
+    digest: 801bf4809b1f9178e36aa0b260c8e4523b2bdc419618119b421062720ecbb767
     home: https://github.com/Docplanner/pingdom-statuspage-integration
     keywords:
     - pingdom
@@ -20,8 +20,8 @@ entries:
     sources:
     - https://github.com/Docplanner/pingdom-statuspage-integration
     urls:
-    - https://github.com/DocPlanner/helm-charts/releases/download/pingdom-statuspage-integration-0.1.1/pingdom-statuspage-integration-0.1.1.tgz
-    version: 0.1.1
+    - https://github.com/DocPlanner/helm-charts/releases/download/pingdom-statuspage-integration-0.1.2/pingdom-statuspage-integration-0.1.2.tgz
+    version: 0.1.2
   pingdom-twilio-integration:
   - apiVersion: v1
     appVersion: "1.0"
@@ -44,4 +44,4 @@ entries:
     urls:
     - pingdom-twilio-integration-0.2.0.tgz
     version: 0.2.0
-generated: "2021-09-01T10:51:16.128811802Z"
+generated: "2021-09-01T10:56:46.963652835Z"
