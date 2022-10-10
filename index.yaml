@@ -44,4 +44,25 @@ entries:
     urls:
     - pingdom-twilio-integration-0.2.0.tgz
     version: 0.2.0
-generated: "2021-09-01T10:56:46.963652835Z"
+  raw:
+  - apiVersion: v2
+    created: "2022-10-10T10:47:26.953160729Z"
+    description: A place for all the Kubernetes resources which don't already have
+      a home
+    digest: 2d33dfd3d8329352b2f2b400d81e2be09bae08fe60a375b673459118cd6f14d6
+    home: https://raw.githubusercontent.com/DocPlanner/helm-charts/master/charts/raw/README.md
+    keywords:
+    - raw
+    - incubator
+    - incubator-raw
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - email: przemyslaw.robak@docplanner.com
+      name: alv91
+    name: raw
+    sources:
+    - https://github.com/helm/charts/blob/master/incubator/raw
+    urls:
+    - https://github.com/DocPlanner/helm-charts/releases/download/raw-v0.2.5/raw-v0.2.5.tgz
+    version: v0.2.5
+generated: "2022-10-10T10:47:26.953166629Z"
